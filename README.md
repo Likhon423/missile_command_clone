@@ -8,3 +8,11 @@ Technologies Used
   <li>IrrKlang</li>
   <li>FreeType</li>
 </ul>
+
+<h2>Overview</h2>
+A game where you have to stop the incoming bombs from reaching the city
+
+<img src="images/Picture1.png" width="500"/>
+
+<h2>Gameplay Demo</h2>
+https://github.com/Likhon423/missile_command_clone/blob/master/images/Media1.mkv

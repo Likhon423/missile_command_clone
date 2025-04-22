@@ -10,7 +10,7 @@ Technologies Used
 </ul>
 
 <h2>Overview</h2>
-A game where you have to stop the incoming bombs from reaching the city
+A game where you have to stop the incoming bombs from reaching the city. You get 3 lives. Destroying a bomb adds 1 point to your score. Failing to destroy a bomb reduces life by 1. Game ends when you deplete all 3 lives. Game can be restarted by pressing "ENTER" or quit by pressing the "ESC" key.
 
 <img src="images/picture1.png" width="800"/>
 
